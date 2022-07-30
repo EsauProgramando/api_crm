@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas Actualizado!!",
+      "empresa": "Soluciones S.A.C",
+      "email": "esauveintemilla@gmail.com",
+      "telefono": "9849681981",
+      "notas": "Registro de datos",
+      "id": 1
+    },
+    {
+      "nombre": "Lucas!!",
+      "empresa": "Soluciones1 S.A.C",
+      "email": "esauveintemilla@gmail.com",
+      "telefono": "9849681981",
+      "notas": "Registro de datos1",
+      "id": 2
+    },
+    {
+      "nombre": "Seiya",
+      "empresa": "Soluciones",
+      "email": "esauveintemilla@gmail.com",
+      "telefono": "984968198",
+      "notas": "nuevo ",
+      "id": 3
+    }
+  ]
+}
