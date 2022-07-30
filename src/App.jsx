@@ -8,6 +8,7 @@ import NuevoCliente from "./paginas/NuevoCliente";
 import EditarCliente from "./paginas/EditarCliente";
 import VerCliente from "./paginas/VerCliente";
 function App() {
+  console.log(import.meta.env);
   return (
     <BrowserRouter>
       <Routes>
